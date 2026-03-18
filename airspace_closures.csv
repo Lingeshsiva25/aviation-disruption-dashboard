@@ -1,0 +1,40 @@
+country,region,closure_start_date,closure_end_date,duration_hours,airspace_zone,reason,flights_affected
+Yemen,Middle East,2026-02-28 01:03,2026-03-07 01:03,168,Full Airspace,Drone/UAV threat — altitude restriction,349
+Afghanistan,Central Asia,2026-02-28 14:19,2026-03-03 14:19,72,UIR,Temporary restriction — missile trajectory zone,151
+Saudi Arabia,Middle East,2026-03-01 00:33,2026-03-03 00:33,48,Full Airspace,Active combat zone — civilian restriction,735
+Lebanon,Middle East,2026-03-01 00:37,2026-03-11 00:37,240,ADIZ,Precautionary closure — conflict proximity,435
+Turkmenistan,Central Asia,2026-03-01 02:39,2026-03-03 02:39,48,UIR,Temporary restriction — missile trajectory zone,142
+Yemen,Middle East,2026-03-01 05:53,2026-03-04 05:53,72,TFR,Airspace security threat — missile activity,710
+Jordan,Middle East,2026-03-01 06:52,2026-03-15 06:52,336,ADIZ,Military operations — NOTAM issued,83
+Armenia,Europe,2026-03-01 08:27,2026-03-02 08:27,24,UIR,Temporary restriction — missile trajectory zone,53
+Turkey,Middle East,2026-03-01 16:25,2026-03-02 16:25,24,UIR,Precautionary closure — conflict proximity,759
+Bahrain,Middle East,2026-03-01 17:43,2026-03-04 17:43,72,ADIZ,Active combat zone — civilian restriction,482
+Qatar,Middle East,2026-03-01 21:59,2026-03-04 21:59,72,Full Airspace,Precautionary closure — conflict proximity,480
+Iraq,Middle East,2026-03-02 01:15,2026-03-16 01:15,336,Full Airspace,Drone/UAV threat — altitude restriction,798
+Qatar,Middle East,2026-03-02 01:57,2026-03-03 01:57,24,Full Airspace,Drone/UAV threat — altitude restriction,552
+Lebanon,Middle East,2026-03-02 05:29,2026-03-16 05:29,336,FIR,Ballistic missile corridor — emergency NOTAM,552
+Turkey,Middle East,2026-03-02 10:42,2026-03-06 10:42,96,TFR,Drone/UAV threat — altitude restriction,559
+Iran,Middle East,2026-03-02 13:11,2026-03-12 13:11,240,Full Airspace,Ballistic missile corridor — emergency NOTAM,155
+Yemen,Middle East,2026-03-02 14:47,2026-03-06 14:47,96,FIR,Ballistic missile corridor — emergency NOTAM,398
+Somalia,East Africa,2026-03-02 17:26,2026-03-03 17:26,24,FIR,Precautionary closure — conflict proximity,20
+Jordan,Middle East,2026-03-02 19:49,2026-03-07 19:49,120,Full Airspace,Ballistic missile corridor — emergency NOTAM,540
+Qatar,Middle East,2026-03-02 22:08,2026-03-06 22:08,96,TFR,Drone/UAV threat — altitude restriction,580
+UAE,Middle East,2026-03-02 23:48,2026-03-05 23:48,72,UIR,Airspace security threat — missile activity,100
+Bahrain,Middle East,2026-03-03 00:05,2026-03-06 00:05,72,ADIZ,Military operations — NOTAM issued,777
+Egypt,North Africa,2026-03-03 00:35,2026-03-04 00:35,24,UIR,Precautionary closure — conflict proximity,69
+Syria,Middle East,2026-03-03 05:26,2026-03-10 05:26,168,FIR,Military operations — NOTAM issued,344
+Djibouti,East Africa,2026-03-03 07:36,2026-03-04 07:36,24,FIR,Temporary restriction — missile trajectory zone,70
+Cyprus,Europe,2026-03-03 12:54,2026-03-04 12:54,24,Partial Restriction,Overflying restriction — reroute advisory,196
+Saudi Arabia,Middle East,2026-03-03 14:12,2026-03-05 14:12,48,TFR,Ballistic missile corridor — emergency NOTAM,608
+Lebanon,Middle East,2026-03-03 14:56,2026-03-05 14:56,48,ADIZ,Airspace security threat — missile activity,456
+Eritrea,East Africa,2026-03-03 18:27,2026-03-04 18:27,24,FIR,Temporary restriction — missile trajectory zone,88
+UAE,Middle East,2026-03-03 18:37,2026-03-08 18:37,120,Full Airspace,Ballistic missile corridor — emergency NOTAM,155
+UAE,Middle East,2026-03-03 20:27,2026-03-13 20:27,240,Full Airspace,Active combat zone — civilian restriction,531
+Greece,Europe,2026-03-03 20:32,2026-03-05 20:32,48,UIR,Precautionary closure — conflict proximity,21
+Iraq,Middle East,2026-03-04 05:05,2026-03-11 05:05,168,TFR,Drone/UAV threat — altitude restriction,501
+Jordan,Middle East,2026-03-04 09:13,2026-03-06 09:13,48,TFR,Active combat zone — civilian restriction,257
+Turkey,Middle East,2026-03-04 09:40,2026-03-09 09:40,120,TFR,Drone/UAV threat — altitude restriction,729
+Israel,Middle East,2026-03-04 20:27,2026-03-06 20:27,48,Full Airspace,Active combat zone — civilian restriction,585
+Oman,Middle East,2026-03-04 20:47,2026-03-05 20:47,24,UIR,Military operations — NOTAM issued,691
+Kuwait,Middle East,2026-03-04 21:45,2026-03-14 21:45,240,Full Airspace,Drone/UAV threat — altitude restriction,560
+Iraq,Middle East,2026-03-04 22:18,2026-03-11 22:18,168,Full Airspace,Drone/UAV threat — altitude restriction,619

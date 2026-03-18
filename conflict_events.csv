@@ -1,0 +1,27 @@
+date,event_type,event_description,location,severity,aviation_impact
+2025-12-15,Political,Widespread anti-government protests erupt across Iran after economic sanctions tighten,"Tehran, Iran",High,Minimal — early warning signs only
+2026-01-10,Diplomatic,UN Security Council emergency session on Iran nuclear program,"New York, USA",Medium,Airlines begin monitoring situation
+2026-01-25,Military,US deploys additional carrier strike group to Persian Gulf,Persian Gulf,High,Airlines issue internal risk advisories
+2026-02-05,Diplomatic,Geneva nuclear talks begin — mediated by Oman and Switzerland,"Geneva, Switzerland",Medium,Brief de-escalation — normal flight ops
+2026-02-14,Political,Iran announces uranium enrichment to 90% — talks collapse,"Tehran, Iran",Very High,Airlines begin contingency route planning
+2026-02-20,Military,Israel conducts strikes on Iranian nuclear facilities,"Isfahan, Iran",Very High,Iran closes airspace — immediate cancellations
+2026-02-22,Military,Iran launches retaliatory missile strikes against US bases in Iraq,"Al Asad, Iraq",Critical,"Iraq, Syria airspace closed — mass cancellations"
+2026-02-25,Military,US commences Operation Resolute Shield — air campaign against Iran,"Multiple locations, Iran",Critical,Entire ME airspace disrupted — global rerouting
+2026-02-28,Military,US-Israeli coordinated military strikes on Iran commence,Iran — multiple targets,Critical,Full Middle East airspace lockdown
+2026-03-01,Energy,Iran closes Strait of Hormuz to all commercial shipping,Strait of Hormuz,Critical,Oil supply shock — cargo flights disrupted
+2026-03-02,Military,Iran-backed Houthi forces attack Saudi oil infrastructure,"Ras Tanura, Saudi Arabia",Critical,Saudi airports on high alert — diversions
+2026-03-03,Military,US Navy clears mines from Strait of Hormuz — ongoing operations,Strait of Hormuz,High,Partial oil flow restoration attempts
+2026-03-04,Energy,Qatar halts LNG production after drone strikes on facilities,"Ras Laffan, Qatar",Critical,Doha airport disruptions — fuel shortage
+2026-03-05,Humanitarian,UNHCR declares refugee emergency — millions displaced,Iran-Iraq border,High,Humanitarian flights authorized
+2026-03-06,Diplomatic,China and Russia call for immediate ceasefire at UNSC,"New York, USA",Medium,Markets stabilize briefly — flights remain cancelled
+2026-03-07,Economic,Pakistan petrol prices surge 20.66% — largest single-day hike,"Islamabad, Pakistan",High,Aviation fuel costs spike globally
+2026-03-08,Military,Iran launches ballistic missiles at US base in Bahrain,"Manama, Bahrain",Critical,Bahrain airport closed — regional diversions
+2026-03-09,Economic,Brent crude hits $104.25/barrel — highest since 2022,Global markets,Very High,Airlines announce capacity cuts worldwide
+2026-03-10,Diplomatic,Oman mediates preliminary ceasefire negotiations,"Muscat, Oman",Medium,Cautious optimism — no flight resumption yet
+2026-03-11,Military,Sporadic clashes continue despite ceasefire talks,Iran-Iraq border,High,Airspace remains restricted
+2026-03-12,Diplomatic,Temporary ceasefire announced — 72-hour humanitarian pause,"Geneva, Switzerland",High,Limited flight resumption — cautious reopening
+2026-03-13,Diplomatic,72-hour ceasefire holds — humanitarian aid convoys enter Iran,Iran-Iraq border,Medium,Some airlines announce limited flight resumption plans
+2026-03-14,Military,Iran partially reopens western airspace corridor under ICAO monitoring,"Tehran FIR, Iran",High,Limited overflights resume via western Iran corridor
+2026-03-15,Diplomatic,US-Iran direct talks begin secretly in Oman — mediated by Oman and Switzerland,"Muscat, Oman",Medium,Markets respond positively — oil drops below $100/barrel
+2026-03-16,Economic,Multiple airlines announce phased resumption of Middle East operations,Global,Medium,"Emirates, Qatar Airways resume limited Dubai/Doha hub ops"
+2026-03-17,Diplomatic,Extended ceasefire agreement signed — 30-day truce with phased airspace reopening,"Muscat, Oman",High,Phased airspace reopening begins — airlines ramp up operations
